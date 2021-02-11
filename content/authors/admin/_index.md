@@ -1,7 +1,7 @@
 ---
 title: Kishore MN
 role: Ph.D Student | Mechanical Engineering | The University of Texas at Dallas
-avatar_filename: kishore_mn-removebg-preview-3-.jpg
+avatar_filename: ""
 social:
   - display:
       header: false
