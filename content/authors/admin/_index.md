@@ -25,7 +25,7 @@ interests:
 
 # Education to show in About widget
 education:
-  history:
+  courses:
   - course: PhD in Mechanical Engineering
     institution: University of Texas at Dallas
     year: 2023
