@@ -14,7 +14,7 @@ organizations:
   url: https://www.utdallas.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio:[]
 
 # Interests to show in About widget
 interests:
