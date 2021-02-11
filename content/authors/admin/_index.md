@@ -13,6 +13,9 @@ education:
     - course: Ph.D in Mechanical Engineering
       institution: The University of Texas at Dallas
       year: 2023
+    - course: BE in Mechanical Engineering
+      institution: PES University
+      year: 2016
 email: kishore.mysorenagaraja@utdallas.edu
 superuser: true
 ---
