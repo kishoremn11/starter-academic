@@ -19,7 +19,7 @@ education:
 email: kishore.mysorenagaraja@utdallas.edu
 superuser: true
 ---
-aHonesty | Integrity | Transparency, the three mottoes of my life. It has taken me all the way from India to the US. In my personal life, I explore Global Competitiveness on Cognitive Intelligence, Freedom of Culture on Emotional Intelligence, Presence of Conscious on Spiritual Intelligence, and Persona of Ethics on Moral Intelligence. 
+Honesty | Integrity | Transparency, the three mottoes of my life. It has taken me all the way from India to the US. In my personal life, I explore Global Competitiveness on Cognitive Intelligence, Freedom of Culture on Emotional Intelligence, Presence of Conscious on Spiritual Intelligence, and Persona of Ethics on Moral Intelligence. 
 
 I aspire to become a subject matter expert on Product Design in Additive Manufacturing (AM) applications. I believe frugal innovations are key to human-centric designs. I work towards developing a virtual feedback system in additive manufacturing which is necessary to validate and qualify AMed components. 
 
