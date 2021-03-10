@@ -3,6 +3,7 @@ widget: accomplishments
 widget_id: Accomplishments
 headless: true
 weight: 10
+title: Accomplishments
 active: true
 design:
   columns: "2"
