@@ -3,6 +3,7 @@ widget: accomplishments
 widget_id: Accomplishments
 headless: true
 weight: 10
+font-size: 40px
 title: Accomplishments
 active: true
 design:
