@@ -1,14 +1,13 @@
 ---
 slides: example
-title: Powder Bed Fusion
+title: Light Portfolio
 date: 2021 March
-summary: Computational Mechanics application in Additive Manufacturing
+summary: Computational Mechanics application in Additive Manufacturing, Automotive, Aerospace, Healthcare, Energy, and Materials Design
 tags:
   - Computational Mechanics
   - Additive Manufacturing
-  - Flow3D
-  - Abaqus
-external_link: https://drive.google.com/file/d/1-GQj90R0C4Af0Xz4jaOzmowlQGDUqAuJ/view?usp=sharing
+  - Product Design
+external_link: https://drive.google.com/file/d/1ft0HuOVIdeCNMcl6VEwqLTGfbmDwNQuc/view?usp=sharing
 links: null
 image:
   caption: ""
