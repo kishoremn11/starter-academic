@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature: 
 - description: 40%
-  icon: "dice-one"
-  icon_pack: "fas"
+  icon: 
+  icon_pack: 
   name: Flow3D
 - description: 40%
   icon: 
