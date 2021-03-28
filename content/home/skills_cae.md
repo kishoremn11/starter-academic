@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
 title: CAE Software Skills
 subtitle: 
@@ -17,12 +17,12 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature: 
 - description: 40%
-  icon: 
-  icon_pack: 
+  icon: dice-one
+  icon_pack: fas
   name: Flow3D
 - description: 40%
-  icon: 
-  icon_pack: 
+  icon: dice-one
+  icon_pack: fas
   name: Abaqus
 - description: 50%
   icon: 
