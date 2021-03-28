@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Resume
 cms_exclude: true
 
 # View.
