@@ -16,34 +16,23 @@ subtitle: CAD Software
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature: 
-- description: 40%
-  icon: dice-one
+- description: 60%
+  icon: dice-six
   icon_pack: fas
-  name: Flow3D
-- description: 40%
-  icon: 
-  icon_pack: 
-  name: Abaqus
+  name: NX Cad
 - description: 50%
-  icon: 
-  icon_pack: 
-  name: Ansys
+  icon: dice-six
+  icon_pack: fas
+  name: Catia
 - description: 40%
-  icon: 
-  icon_pack: 
-  name: Nastran
-- description: 20%
-  icon: 
-  icon_pack: 
-  name: LS Dyna
-- description: 50%
-  icon: 
-  icon_pack: 
-  name: Hypermesh
-- description: 30%
-  icon: 
-  icon_pack: 
-  name: Ansa
+  icon: dice-three
+  icon_pack: fas
+  name: Solidworks
+- description: 40%
+  icon: dice-two
+  icon_pack: fas
+  name: Autodesk Inventor
+
 
 
 
