@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: CAE Software Skills
-subtitle: 
+title: Skills
+subtitle: CAE Software
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
@@ -25,24 +25,24 @@ feature:
   icon_pack: fas
   name: Abaqus
 - description: 50%
-  icon: 
-  icon_pack: 
+  icon: dice-six
+  icon_pack: fas
   name: Ansys
 - description: 40%
-  icon: 
-  icon_pack: 
+  icon: dice-four
+  icon_pack: fas
   name: Nastran
 - description: 20%
-  icon: 
-  icon_pack: 
+  icon: dice-one
+  icon_pack: fas
   name: LS Dyna
 - description: 50%
-  icon: 
-  icon_pack: 
+  icon: dice-six
+  icon_pack: fas
   name: Hypermesh
 - description: 30%
-  icon: 
-  icon_pack: 
+  icon: dice-two
+  icon_pack: fas
   name: Ansa
 
 
