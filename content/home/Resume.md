@@ -1,5 +1,5 @@
 ---
-widget: Resume
+widget: resume
 widget_id: Resume
 headless: true
 weight: 90
