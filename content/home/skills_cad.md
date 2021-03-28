@@ -10,15 +10,15 @@ headless: true
 weight: 40
 
 title: Skills
-subtitle: CAD Software
+subtitle: CAE Software
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature: 
 - description: 40%
-  icon: 
-  icon_pack: 
+  icon: dice-one
+  icon_pack: fas
   name: Flow3D
 - description: 40%
   icon: 
