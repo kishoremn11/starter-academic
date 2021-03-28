@@ -15,4 +15,3 @@ image:
   focal_point: Smart
   filename: featured.jpg
 ---
-![](4.png)
