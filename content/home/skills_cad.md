@@ -7,10 +7,10 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
 title: Skills
-subtitle: CAE Software
+subtitle: CAD Software
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
