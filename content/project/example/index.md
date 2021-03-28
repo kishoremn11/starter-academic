@@ -12,6 +12,6 @@ external_link: Optional
 links: null
 image:
   caption: ""
-  focal_point: Smart
+  focal_point: TOP
   filename: featured.jpg
 ---
