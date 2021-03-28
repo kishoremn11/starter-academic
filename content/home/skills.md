@@ -15,20 +15,43 @@ subtitle:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature:
+feature: CAE Software
 - description: 40%
   icon: 
   icon_pack: 
   name: Flow3D
-  link: https://www.flow3d.com/
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- description: 40%
+  icon: 
+  icon_pack: 
+  name: Abaqus
+- description: 50%
+  icon: 
+  icon_pack: 
+  name: Ansys
+- description: 40%
+  icon: 
+  icon_pack: 
+  name: Nastran
+- description: 20%
+  icon: 
+  icon_pack: 
+  name: LS Dyna
+- description: 50%
+  icon: 
+  icon_pack: 
+  name: Hypermesh
+- description: 30%
+  icon: 
+  icon_pack: 
+  name: Ansa
+feature: CAD Software
+- description: 40%
+  icon: 
+  icon_pack: 
+  name: Flow3D
+- description: 40%
+
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
