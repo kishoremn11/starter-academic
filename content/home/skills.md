@@ -44,12 +44,7 @@ feature:
   icon: 
   icon_pack: 
   name: Ansa
-feature: 
-- description: 40%
-  icon: 
-  icon_pack: 
-  name: Flow3D
-- description: 40%
+
 
 
 
