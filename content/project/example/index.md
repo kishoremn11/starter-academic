@@ -2,7 +2,7 @@
 slides: example
 title: Powder Bed Fusion
 date: 2021 March
-summary: null
+summary: Computational Mechanics application in Additive Manufacturing
 tags:
   - Computational Mechanics
   - Additive Manufacturing
