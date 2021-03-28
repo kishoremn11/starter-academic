@@ -1,6 +1,6 @@
 ---
 widget: about
-widget_id: Kishore MN
+widget_id: Biography
 headless: true
 weight: 20
 title: Kishore MN
