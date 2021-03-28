@@ -18,7 +18,7 @@ subtitle:
 feature: 
 - description: 40%
   icon: dice-one
-  icon_pack: fas
+  icon_pack: <i class="fas fa-dice-one"></i>
   name: Flow3D
 - description: 40%
   icon: 
