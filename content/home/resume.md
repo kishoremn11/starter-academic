@@ -1,12 +1,12 @@
 ---
 widget: resume
-widget_id: Resume
+widget_id: resume
 headless: true
 weight: 90
 title: Resume
 subtitle: ""
 content:
-  page_type: project
+  page_type: Project
   count: 5
   offset: 0
   order: desc
