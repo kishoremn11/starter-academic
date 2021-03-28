@@ -9,11 +9,9 @@ slides:
   theme: black
   highlight_style: dracula
 ---
-![](1.png)
-
-![](2.png)
-
-![](3.png)
+1. ![](1.png)
+2. ![](2.png)
+3. ![](3.png)
 
 ![](4.png)
 
