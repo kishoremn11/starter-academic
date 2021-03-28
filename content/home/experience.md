@@ -32,7 +32,7 @@ experience:
     company: PES University
     company_url: https://pes.edu/
     location: India
-    date_start: 2018-08-01
+    date_start: 2018-10-01
     date_end: 2019-12-24
     description: |-2
         Responsibilities include:
@@ -55,7 +55,7 @@ experience:
     company_url: https://new.siemens.com/in/en.html
     location: India
     date_start: 2017-03-13 
-    date_end: 2018-07-30
+    date_end: 2018-09-30
     description: |-2
         Responsibilities include:
         
