@@ -14,5 +14,5 @@ image:
   caption: ""
   focal_point: Top
   filename: featured.jpg
-  preview_only: true
+  preview_only: false
 ---
