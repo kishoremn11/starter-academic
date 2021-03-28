@@ -1,6 +1,6 @@
 ---
-title: Ph.D. Student
-role: Mechanical Engineering | The University of Texas at Dallas
+title: Kishore MN
+role: Ph.D. Student | Mechanical Engineering | The University of Texas at Dallas
 avatar_filename: circle-cropped.png
 interests:
   - Computational Mechanics | Additive Manufacturing | Product Design |
