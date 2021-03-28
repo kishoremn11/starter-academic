@@ -10,6 +10,7 @@ social:
     link: https://www.linkedin.com/in/kishoremn11/
     icon_pack: fab
     icon: LinkedIn
+organizations: []
 education:
   courses:
     - course: Ph.D in Mechanical Engineering
