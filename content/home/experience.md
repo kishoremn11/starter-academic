@@ -10,7 +10,7 @@ experience:
     company: The University of Texas at Dallas
     company_url: https://www.utdallas.edu/
     location: US
-    date_start: Jan 2020 
+    date_start: 2020-01-01
     date_end: ""
     description: |-2
         Responsibilities include:
@@ -21,7 +21,7 @@ experience:
     company: The University of Texas at Dallas
     company_url: https://www.utdallas.edu/
     location: US
-    date_start: Aug 2020 
+    date_start: 2020-06-01
     date_end: ""
     description: |-2
         Responsibilities include:
@@ -32,8 +32,8 @@ experience:
     company: PES University
     company_url: https://pes.edu/
     location: India
-    date_start: Oct 2018 
-    date_end: Dec 2019
+    date_start: 2018-08-01
+    date_end: 2019-12-24
     description: |-2
         Responsibilities include:
         
@@ -43,8 +43,8 @@ experience:
     company: PES University
     company_url: https://pes.edu/
     location: India
-    date_start: Jan 2016  
-    date_end: Feb 2017
+    date_start: 2016-01-01
+    date_end: 2017-03-12
     description: |-2
         Responsibilities include:
         
@@ -54,8 +54,8 @@ experience:
     company: Siemens Technology and Services Private Limited
     company_url: https://new.siemens.com/in/en.html
     location: India
-    date_start: Mar 2017  
-    date_end: Sep 2018
+    date_start: 2017-03-13 
+    date_end: 2018-07-30
     description: |-2
         Responsibilities include:
         
