@@ -9,16 +9,16 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
-subtitle: CAE Software
+title: CAE Software Skills
+subtitle: 
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature: 
 - description: 40%
-  icon: 
-  icon_pack: 
+  icon: dice-one
+  icon_pack: fas
   name: Flow3D
 - description: 40%
   icon: 
