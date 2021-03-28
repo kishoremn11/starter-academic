@@ -12,7 +12,7 @@ external_link: Optional
 links: null
 image:
   caption: ""
-  focal_point: TOP
+  focal_point: top
   filename: featured.jpg
   preview_only: true
 ---
