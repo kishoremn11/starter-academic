@@ -8,7 +8,7 @@ interests:
   - Product Design
 social:
   - display:
-      header: false
+      header: true
     link: https://www.linkedin.com/in/kishoremn11/
     icon_pack: fab
     icon: LinkedIn
