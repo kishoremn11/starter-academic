@@ -1,6 +1,6 @@
 ---
-title: Portfolio
-summary: Kishore MN Portfolio.
+title: Kishore MN Portfolio.
+summary: 
 tags:
 - Computational Mechanics
 date: "2021 March"
