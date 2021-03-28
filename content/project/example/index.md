@@ -13,6 +13,6 @@ links: null
 image:
   caption: ""
   focal_point: Smart
-  filename: powder-bed-fusion.png
+  filename: featured.jpg
 ---
 ![](4.png)
