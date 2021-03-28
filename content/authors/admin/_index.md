@@ -1,7 +1,7 @@
 ---
 title: Ph.D. Student
 role: Mechanical Engineering | The University of Texas at Dallas
-avatar_filename: kishore_mn.jpg
+avatar_filename: circle-cropped.png
 interests:
   - Computational Mechanics | Additive Manufacturing | Product Design |
 social:
