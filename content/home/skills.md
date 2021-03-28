@@ -20,6 +20,7 @@ feature:
   icon: 
   icon_pack: 
   name: Flow3D
+  link: https://www.flow3d.com/
 - description: 100%
   icon: chart-line
   icon_pack: fas
