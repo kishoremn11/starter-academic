@@ -1,6 +1,6 @@
 ---
 slides: example
-title: Light Portfolio
+title: Portfolio Link
 date: 2021 March
 summary: Computational Mechanics application in Additive Manufacturing,
   Automotive, Aerospace, Healthcare, Energy, and Materials Design
