@@ -3,7 +3,7 @@ slides: example
 title: Resume Link
 date: 2021 March
 summary: Computational Mechanics application in Additive Manufacturing,
-  Automotive, Aerospace, Healthcare, Energy, and Materials Design
+  Automotive, Aerospace, Healthcare, Energy, and Materials Design.
 tags:
   - Computational Mechanics
   - Additive Manufacturing
