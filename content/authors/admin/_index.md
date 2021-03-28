@@ -1,7 +1,7 @@
 ---
 title: Kishore MN
 role: Ph.D. Student | Mechanical Engineering | The University of Texas at Dallas
-avatar_filename: circle-cropped.png
+avatar_filename: avatar.jpg
 interests:
   - Computational Mechanics;Additive Manufacturing;Product Design
 social:
