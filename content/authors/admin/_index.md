@@ -12,7 +12,10 @@ education:
   courses:
     - course: Ph.D in Mechanical Engineering
       institution: The University of Texas at Dallas
-      year: 2023
+      year: 2024
+    - course: MS in Mechanical Engineering
+      institution: The University of Texas at Dallas
+      year: 2021
     - course: BE in Mechanical Engineering
       institution: PES University
       year: 2016
