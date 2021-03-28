@@ -8,5 +8,5 @@ active: true
 author: admin
 design:
   background:
-    image: ""
+    image: "https://drive.google.com/file/d/1aV9zWfn3MnuvEgORuA0U-nmhhiKmcBuh/view?usp=sharing"
 ---
